@@ -1,0 +1,42 @@
+[
+  {
+    "year": 2014,
+    "make": "wolfsberg",
+    "model": "handel",
+    "trim": "sl cleandiesel",
+    "color": "purple",
+    "numberPlate": "sup3rb"
+  },
+  {
+    "year": 2017,
+    "make": "stuttgart",
+    "model": "koblenz",
+    "trim": "63s nghtpack",
+    "color": "green",
+    "numberPlate": "JACK"
+  },
+  {
+    "year": 2017,
+    "make": "stuttgart",
+    "model": "koblenz",
+    "trim": "63s nightpack",
+    "color": "blue",
+    "numberPlate": "JACK"
+  },
+  {
+    "year": 2016,
+    "make": "bandit",
+    "model": "predator",
+    "trim": "xr8 sprint",
+    "color": "smoke metalic",
+    "numberPlate": "AUZZIE"
+  },
+  {
+    "year": 2016,
+    "make": "bandit",
+    "model": "predator",
+    "trim": "xr8 sprint",
+    "color": "blue",
+    "numberPlate": "AUZZIE"
+  }
+]

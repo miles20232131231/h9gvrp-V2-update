@@ -1,0 +1,16 @@
+{
+    "sessions": [
+        {
+            "date": "2024-08-31T10:55:05.252Z",
+            "timeHosted": "11:11",
+            "timeEnded": "11:11",
+            "proof": "https://media.discordapp.net/attachments/1271366331135954975/1279393889081364502/image.png?ex=66d447e9&is=66d2f669&hm=e8e4bae45932065cc7e43ac21c6816f3050c8c788f092bd667ad6db7c0e038e0&=&format=webp&quality=lossless&width=202&height=70"
+        },
+        {
+            "sessionDate": "2024-08-31T14:34:19.954Z",
+            "reactionsRequired": 5,
+            "actualReactions": 0
+        }
+    ],
+    "sessionsStarted": null
+}
